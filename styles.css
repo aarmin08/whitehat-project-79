@@ -1,0 +1,16 @@
+input {
+    margin: 10px;
+}
+
+#sort_btn {
+    display: none;
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#submit_btn {
+    font-size: large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
